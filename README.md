@@ -8,7 +8,7 @@ React-based Garry's Mod Main Menu replacment
 3. Open this archive with any archiver and unzip the archive to the directory **GarrysMod/garrysmod** (this is the directory where there are folders addons, bin, gamemodes, html, etc.)
 4. Open game
 
-# Game preview
+# In game preview
 ![screenshot](src/assets/screenshots/)
 ![screenshot](src/assets/screenshots/)
 ![screenshot](src/assets/screenshots/)
