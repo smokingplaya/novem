@@ -46,9 +46,9 @@ function Page(
             </WatermarkPlaceholder>
 
             <BottomBar>
-              <BottomBarButon tooltip="Язык игры" children={<Languages color="white" />} />
-              <BottomBarButon tooltip="Режим игры" children={<Gamepad2 color="white" />} />
-              <BottomBarButon tooltip="Открыть консоль" children={<SquareTerminal color="white" />} />
+              <BottomBarButon tooltip="Язык игры" children={<Languages/>} />
+              <BottomBarButon tooltip="Режим игры" children={<Gamepad2/>} />
+              <BottomBarButon tooltip="Открыть консоль" children={<SquareTerminal/>} />
             </BottomBar>
           </div>
         </div>
