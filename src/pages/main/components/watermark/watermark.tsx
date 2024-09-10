@@ -1,4 +1,4 @@
-import Link from "../link";
+import Link from "../../../../components/novem/link";
 
 function Watermark() {
   return (

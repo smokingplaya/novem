@@ -1,15 +1,15 @@
 import { Gamepad2, Languages, SquareTerminal } from "lucide-react";
-import BottomBar from "../../components/novem/bottombar/bottombar";
+import BottomBar from "./components/bottombar/bottombar";
 import PageContent from "../../components/novem/page/pagecontent";
-import Sidebar from "../../components/novem/sidebar/sidebar";
-import SidebarButton from "../../components/novem/sidebar/sidebarbutton";
-import SidebarCategory from "../../components/novem/sidebar/sidebarcategory";
-import BottomBarButon from "../../components/novem/bottombar/bottombarbutton";
-import Watermark from "../../components/novem/watermark/watermark";
-import WatermarkPlaceholder from "../../components/novem/watermark/watermarkplaceholder";
-import SidebarImage from "../../components/novem/sidebar/sidebarimage";
-import { Pages } from "../../App";
 import PagePlaceholder from "../../components/novem/page/pageplaceholder";
+import Sidebar from "./components/sidebar/sidebar";
+import SidebarButton from "./components/sidebar/sidebarbutton";
+import SidebarCategory from "./components/sidebar/sidebarcategory";
+import BottomBarButon from "./components/bottombar/bottombarbutton";
+import Watermark from "./components/watermark/watermark";
+import WatermarkPlaceholder from "./components/watermark/watermarkplaceholder";
+import SidebarImage from "./components/sidebar/sidebarimage";
+import { Pages } from "../../App";
 
 // todo @ заменить все строки на language хуйню
 function Page(
